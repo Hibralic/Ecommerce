@@ -64,19 +64,5 @@
         "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
       }
     }
-    // {
-    //   "sys": { "id": "9" },
-    //   "fields": {
-    //     "title": "Malm",
-    //     "price": 1000,
-    //     "image": {
-    //       "fields": {
-    //         "file": {
-    //           "url": "https://www.ikea.com/ca/en/images/products/malm-bed-frame-high-blue__1334764_pe946885_s5.jpg?f=s"
-    //         }
-    //       }
-    //     }
-    //   }
-    // }
   ]
 }
