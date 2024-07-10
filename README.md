@@ -1,5 +1,4 @@
 # Ecommerce
-Sure, here's the updated README file with the correct link for cloning the repo:
 
 # Hasko's House
 
