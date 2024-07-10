@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username/Haskos-House.git
+git clone https://github.com/Hibralic/Ecommerce.git
 ```
 
 2. Open the `index.html` file in your browser to view the site.
